@@ -6,7 +6,8 @@
   
   <hr>
 
-
+ SOSYAL MEDYA HESAPLARIM
+ 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
