@@ -2,6 +2,8 @@
 
 <h1>MUHAMMED TAYYİB ŞAHİN  👨🏻‍💻🇹🇷 <h1>
 
+  <p> Çocukluktan beri yazılımla ilgilenen ve her zaman kendini geliştirip,başkalarına aktarmaya çalışan biri.
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=60mts)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
