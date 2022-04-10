@@ -1,6 +1,6 @@
 
 
-<h2> Muhammed Tayyib ŞAHİN <h2>
+<h1>MUHAMMED TAYYİB ŞAHİN <h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=60mts)](https://github.com/anuraghazra/github-readme-stats)
 
