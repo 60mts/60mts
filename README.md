@@ -5,15 +5,6 @@
   <p style="background-color:red"> Çocukluktan beri yazılımla ilgilenen ve her zaman kendini geliştirip,başkalarına aktarmaya çalışan biri.<p>
   
   <hr>
-
-(https://github-profile-trophy.vercel.app/?60mts=ryo-ma&theme=onedark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=60mts&show_icons=true&theme=radical)
-
-
-<hr>
-
-
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
