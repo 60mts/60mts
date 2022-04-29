@@ -6,7 +6,7 @@
   
   <hr>
 
-(https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+(https://github-profile-trophy.vercel.app/?60mts=ryo-ma&theme=onedark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=60mts&show_icons=true&theme=radical)
 
