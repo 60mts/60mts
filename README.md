@@ -11,7 +11,7 @@
       
       
                                            Graphic Design Projects -> behance.net/60mts
-                                               
+                                           To read my articles -> 60mts.com.tr
       
                                                   Muhammed Tayyib SAHIN © 2022 
 
