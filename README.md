@@ -11,11 +11,11 @@
       
       
                                            Graphic Design Projects -> behance.net/60mts
-                                           
-                                                             
-                                                              ↓
-              
+                                               
       
                                                   Muhammed Tayyib SAHIN © 2022 
 
  
+                                                  My publicly shared projects
+                                                             
+                                                              ↓
